@@ -1,2 +1,11 @@
 
-/* Your CSS Code here. */
+#application>button{
+	background-color:#2f80ed;
+	border-radius:5px;
+	padding:8px;
+	height:35px;
+	border:none;
+	font-weight:600;
+	color:white
+	
+}
